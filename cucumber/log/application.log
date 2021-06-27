@@ -1,0 +1,321 @@
+2020-01-28 06:20:36,611 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-28 06:20:50,136 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-28 06:20:52,891 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (577dbcec6c19b5142ea0e6fd4231f1f7)] -> xpath: //a[@class='login']]
+2020-01-28 06:20:52,988 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is displayed on web Page [[ChromeDriver: chrome on WINDOWS (577dbcec6c19b5142ea0e6fd4231f1f7)] -> xpath: //*[contains(text(),'Create an account')]]
+2020-01-28 06:20:53,138 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (577dbcec6c19b5142ea0e6fd4231f1f7)] -> id: email_create]
+2020-01-28 06:20:53,139 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
+2020-01-28 06:20:54,268 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-28 06:21:10,780 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-28 06:21:14,052 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (5a6d956b241a191512fc4392a3626773)] -> xpath: //a[@class='login']]
+2020-01-28 06:21:14,136 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is displayed on web Page [[ChromeDriver: chrome on WINDOWS (5a6d956b241a191512fc4392a3626773)] -> xpath: //*[contains(text(),'Create an account')]]
+2020-01-28 06:21:14,258 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (5a6d956b241a191512fc4392a3626773)] -> id: email_create]
+2020-01-28 06:21:14,259 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
+2020-01-28 06:21:15,379 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-28 06:21:29,205 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-28 06:21:32,185 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (f730bd9e35ef23f72d1f8a2cc60f7029)] -> xpath: //a[@class='login']]
+2020-01-28 06:21:32,265 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is displayed on web Page [[ChromeDriver: chrome on WINDOWS (f730bd9e35ef23f72d1f8a2cc60f7029)] -> xpath: //*[contains(text(),'Create an account')]]
+2020-01-28 06:21:32,422 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (f730bd9e35ef23f72d1f8a2cc60f7029)] -> id: email_create]
+2020-01-28 06:21:32,422 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
+2020-01-28 06:23:28,344 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-28 06:23:42,600 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-28 06:23:42,709 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is not displayed on web Page Proxy element for: DefaultElementLocator 'By.xpath: //*[contains(text(),'Create an account')]'
+2020-01-28 06:23:42,751 [main] INFO com.cucumber.testbase.TestBase - Send Keys Operation is not performed on webElement :Proxy element for: DefaultElementLocator 'By.id: email_create'
+2020-01-28 06:23:42,752 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is pass
+2020-01-28 06:25:43,601 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-28 06:25:58,220 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-28 06:26:02,151 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (b389b2bdca2e3b994bad4641a7b3714f)] -> xpath: //a[@class='login']]
+2020-01-28 06:26:02,244 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is displayed on web Page [[ChromeDriver: chrome on WINDOWS (b389b2bdca2e3b994bad4641a7b3714f)] -> xpath: //*[contains(text(),'Create an account')]]
+2020-01-28 06:26:02,246 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is Failed
+2020-01-28 06:27:34,099 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2020-01-28 06:27:47,057 [main] INFO com.cucumber.testbase.TestBase - Launched URL http://automationpractice.com/index.php
+2020-01-28 06:27:49,841 [main] INFO com.cucumber.testbase.TestBase - Click Operation is performed on webElement :[[ChromeDriver: chrome on WINDOWS (39348b6a4aebe1ddd768a39b36b63cd2)] -> xpath: //a[@class='login']]
+2020-01-28 06:27:49,945 [main] INFO com.cucumber.helperclasses.ElementHelper - Element is displayed on web Page [[ChromeDriver: chrome on WINDOWS (39348b6a4aebe1ddd768a39b36b63cd2)] -> xpath: //*[contains(text(),'Create an account')]]
+2020-01-28 06:27:49,950 [main] INFO com.cucunber.testSteps.Hooks - Register with valid credential is Failed
+2021-06-26 17:25:30,321 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:25:32,441 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credential is Failed
+2021-06-26 17:25:32,454 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:25:33,678 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credentials is Failed
+2021-06-26 17:26:09,255 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:26:11,498 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credential is Failed
+2021-06-26 17:26:11,509 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:26:12,968 [main] INFO com.cucunber.testSteps.Hooks - Sign In with valid credentials is Failed
+2021-06-26 17:39:48,121 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:39:50,058 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-26 17:42:43,405 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:42:45,811 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:42:51,678 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-26 17:42:51,691 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-26 17:46:07,413 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:46:09,324 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 17:46:13,935 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-26 17:46:13,968 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-26 19:04:01,070 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 19:04:05,664 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-26 19:12:26,255 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 19:12:28,496 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 19:12:33,548 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-26 19:12:33,577 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-26 19:46:09,412 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 19:46:11,297 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 19:46:16,220 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-26 19:46:16,233 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-26 19:47:51,879 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 19:47:53,743 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-26 19:47:57,654 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-26 19:47:57,667 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 07:57:30,596 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 07:57:32,541 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 07:57:38,685 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-27 07:57:38,703 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:02:15,897 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:02:17,714 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:02:26,267 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-27 08:02:26,736 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:04:49,850 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:04:51,653 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:04:58,354 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-27 08:04:59,032 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:07:50,340 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:07:52,170 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:07:59,142 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-27 08:08:04,864 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:09:51,199 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:09:53,118 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:09:59,511 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-27 08:10:03,077 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:11:00,836 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:11:02,633 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:11:09,988 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/
+2021-06-27 08:11:15,020 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:18:01,594 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:18:03,357 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:18:10,642 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:18:15,516 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:20:49,573 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:20:51,294 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:20:58,163 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:21:02,053 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:24:33,657 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:24:35,585 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:24:41,981 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:24:45,664 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:30:09,446 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:30:11,220 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:30:17,991 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:30:18,435 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (4a48674dcd8491602e1ef3185d3f23aa)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 08:30:20,150 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:30:20,412 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 08:30:30,384 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:30:31,057 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:44:01,670 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:44:03,440 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:44:09,162 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:44:09,779 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (69777c61df3fc375b9801dddaa9c5a91)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 08:44:11,043 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:44:11,422 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 08:44:21,853 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:44:23,321 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:46:33,836 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:46:35,692 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:46:41,860 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:46:42,379 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (c4f7c67e0646eed748933104fc758cee)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 08:46:43,599 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:46:44,004 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 08:46:53,955 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:46:57,883 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:47:57,749 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:47:59,638 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:48:05,694 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:48:06,357 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (159066c33c9cde39c5e557df38024a7a)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 08:48:07,595 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:48:08,020 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 08:48:18,893 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:48:22,576 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:50:12,141 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:50:14,059 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:50:19,909 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:50:20,481 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (e81cd69ae0dd0740343fb581c75aab5e)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 08:50:22,238 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:50:22,467 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 08:50:34,266 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:50:37,854 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 08:58:49,825 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:58:51,637 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 08:58:57,276 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 08:58:57,846 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (4603c2c14ffec15c9f25b3688fb9ca54)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 08:58:59,179 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:58:59,631 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 08:59:06,299 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 08:59:07,180 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:01:31,833 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:01:33,949 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:01:40,269 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:01:41,045 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (909c459cbaeb3a868b21359c231dd23a)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:01:42,338 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:01:42,844 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:01:48,478 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:01:48,959 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:03:31,660 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:03:33,467 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:03:39,534 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:03:40,128 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (00af4d7f1c4454d952841cb10297ec72)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:03:41,344 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:03:41,855 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:03:51,810 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:03:52,510 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (00af4d7f1c4454d952841cb10297ec72)] -> name: to]for :20 Seconds
+2021-06-27 09:03:53,085 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:03:56,270 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:14:47,717 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:14:49,601 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:14:55,733 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:14:56,320 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (595ea019d33da923eafb2fbb8e1cb814)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:14:57,635 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:14:58,099 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:15:04,404 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:15:05,055 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.name: to'for :20 Seconds
+2021-06-27 09:15:07,404 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:15:10,577 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:16:40,039 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:16:41,999 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:16:48,914 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:16:49,635 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (6799867087fa9fce01dc36b1e72a8388)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:16:50,815 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:16:51,189 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:16:57,060 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:16:57,249 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.name: to'for :20 Seconds
+2021-06-27 09:16:59,913 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:17:03,095 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:22:56,778 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:22:58,631 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:23:05,390 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:23:06,124 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (c5fd8d830ca34cccc75496323379b24c)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:23:07,423 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:23:07,843 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:23:18,012 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:23:18,572 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (c5fd8d830ca34cccc75496323379b24c)] -> name: to]for :20 Seconds
+2021-06-27 09:23:18,778 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:23:22,161 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:37:07,646 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:37:09,457 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:37:15,120 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:37:15,814 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (8cbf8403edc0d6be690b74cb311df211)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:37:17,093 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:37:17,576 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:37:24,212 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:37:24,926 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.name: to'for :20 Seconds
+2021-06-27 09:37:25,856 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:37:29,446 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:38:58,460 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:39:00,142 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:39:06,271 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:39:06,854 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (633da25f631b56afa796df2f35ebe74f)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:39:08,205 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:39:08,424 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:39:18,593 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:39:19,094 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (633da25f631b56afa796df2f35ebe74f)] -> name: to]for :20 Seconds
+2021-06-27 09:39:19,786 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:39:23,543 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:41:21,637 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:41:23,536 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:41:29,423 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:41:29,952 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (b84d51ceabf9b4911110738dbca89cdb)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:41:31,208 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:42:16,498 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:42:18,360 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:42:24,466 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:42:25,342 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (f4b0b8e61da738715a6999953e2e255d)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:42:26,578 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:42:27,000 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:42:37,193 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:42:37,536 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (f4b0b8e61da738715a6999953e2e255d)] -> name: to]for :20 Seconds
+2021-06-27 09:42:37,688 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:42:41,433 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.id: :mb'for :20 Seconds
+2021-06-27 09:43:01,878 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:46:10,842 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:46:12,821 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:46:19,724 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:46:20,162 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (38f9ff05f0d8865c061fe640e02a785c)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:46:21,395 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:46:21,797 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:46:28,921 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:46:29,534 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.name: to'for :20 Seconds
+2021-06-27 09:46:30,387 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:46:34,051 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (38f9ff05f0d8865c061fe640e02a785c)] -> xpath: //*[@id=":nd"]]for :20 Seconds
+2021-06-27 09:46:34,082 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:46:34,617 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is pass
+2021-06-27 09:47:34,691 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:47:37,410 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:47:42,779 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:47:43,531 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (3296642cca9c06aa9cadc9f35d3a83f3)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:47:45,108 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:47:45,388 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:47:55,954 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:47:56,884 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (3296642cca9c06aa9cadc9f35d3a83f3)] -> name: to]for :20 Seconds
+2021-06-27 09:47:57,007 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:48:00,768 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (3296642cca9c06aa9cadc9f35d3a83f3)] -> xpath: //*[@id=":nd"]]for :20 Seconds
+2021-06-27 09:48:21,293 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:50:56,603 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:50:58,461 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:51:05,171 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:51:05,778 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (1efdb8a8d754b63a066718d0eec62abb)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:51:06,975 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:51:07,368 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:51:16,777 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:51:17,478 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (1efdb8a8d754b63a066718d0eec62abb)] -> name: to]for :20 Seconds
+2021-06-27 09:51:17,541 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:51:21,228 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (1efdb8a8d754b63a066718d0eec62abb)] -> xpath: //*[@id=":nd"]]for :20 Seconds
+2021-06-27 09:51:41,435 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 09:57:00,750 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:57:02,684 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 09:57:08,944 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 09:57:09,519 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (dc2e6ebce710529ecd98ff7cfeb107fd)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 09:57:11,246 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:57:11,450 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 09:57:22,225 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:57:22,643 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (dc2e6ebce710529ecd98ff7cfeb107fd)] -> name: to]for :20 Seconds
+2021-06-27 09:57:22,831 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 09:57:26,659 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.cssSelector: .T-I.J-35-Ji.aoO.T-I.atl.i3.T-I-Zf-aw2'for :20 Seconds
+2021-06-27 09:57:46,769 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 10:57:40,282 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 10:57:42,016 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 10:57:44,979 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 11:05:34,612 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 11:05:40,755 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 11:05:46,506 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 11:05:48,264 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (d2a352620fdd9285ae6138d1e9c27136)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 11:05:52,285 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 11:05:52,501 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 11:06:11,718 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 11:06:12,056 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (d2a352620fdd9285ae6138d1e9c27136)] -> name: to]for :20 Seconds
+2021-06-27 11:06:12,135 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 11:06:15,784 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.cssSelector: .T-I.J-35-Ji.ao0.T-I.atl.i3.T-I-Zf-aw2'for :20 Seconds
+2021-06-27 11:06:35,945 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 11:10:04,091 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 11:10:06,027 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 11:10:10,623 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 11:10:11,061 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (b402ea81ec16b1ebaaed5c681b419eae)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 11:10:12,357 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is Failed
+2021-06-27 11:10:37,701 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 11:10:39,623 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 11:10:44,452 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 11:10:44,933 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (79bd9a062a217453133c2949823eaddb)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 11:10:46,610 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 11:10:46,814 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 11:10:57,216 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 11:10:57,625 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (79bd9a062a217453133c2949823eaddb)] -> name: to]for :20 Seconds
+2021-06-27 11:10:57,904 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 11:11:01,565 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (79bd9a062a217453133c2949823eaddb)] -> xpath: //*[@class='T-I J-J5-Ji aoO v7 T-I-atl L3']]for :20 Seconds
+2021-06-27 11:11:01,594 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 11:11:02,159 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is pass
+2021-06-27 12:10:23,600 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 12:10:25,538 [main] INFO com.cucumber.testbase.TestBase - chrome browser is initialized
+2021-06-27 12:10:29,948 [main] INFO com.cucumber.testbase.TestBase - Launched URL https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2021-06-27 12:10:30,628 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (6d8c39506df7451d0042e4c2a981d010)] -> xpath: //input[@type='password']]for :10 Seconds
+2021-06-27 12:10:32,407 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 12:10:32,596 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@style='user-select: none']'for :10 Seconds
+2021-06-27 12:10:38,279 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 12:10:38,460 [main] INFO com.cucumber.testbase.TestBase - Waiting for :Proxy element for: DefaultElementLocator 'By.name: to'for :20 Seconds
+2021-06-27 12:10:43,740 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 12:10:47,414 [main] INFO com.cucumber.testbase.TestBase - Waiting for :[[ChromeDriver: chrome on WINDOWS (6d8c39506df7451d0042e4c2a981d010)] -> xpath: //*[@class='T-I J-J5-Ji aoO v7 T-I-atl L3']]for :20 Seconds
+2021-06-27 12:10:47,466 [main] INFO com.cucumber.testbase.TestBase - Element to be  is Visible now
+2021-06-27 12:10:49,909 [main] INFO com.cucunber.testSteps.Hooks - Login with valid credentials is pass
